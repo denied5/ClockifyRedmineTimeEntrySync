@@ -1,0 +1,17 @@
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\bin\Debug\netcoreapp3.1\Services.exe
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\bin\Debug\netcoreapp3.1\ActivitysSync.exe
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\bin\Debug\netcoreapp3.1\ActivitysSync.deps.json
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\bin\Debug\netcoreapp3.1\ActivitysSync.runtimeconfig.json
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\bin\Debug\netcoreapp3.1\ActivitysSync.runtimeconfig.dev.json
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\bin\Debug\netcoreapp3.1\ActivitysSync.dll
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\bin\Debug\netcoreapp3.1\ActivitysSync.pdb
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\bin\Debug\netcoreapp3.1\Services.dll
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\bin\Debug\netcoreapp3.1\Services.pdb
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\obj\Debug\netcoreapp3.1\ActivitysSync.csprojAssemblyReference.cache
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\obj\Debug\netcoreapp3.1\ActivitysSync.AssemblyInfoInputs.cache
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\obj\Debug\netcoreapp3.1\ActivitysSync.AssemblyInfo.cs
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\obj\Debug\netcoreapp3.1\ActivitysSync.csproj.CopyComplete
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\obj\Debug\netcoreapp3.1\ActivitysSync.dll
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\obj\Debug\netcoreapp3.1\ActivitysSync.pdb
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\obj\Debug\netcoreapp3.1\ActivitysSync.genruntimeconfig.cache
+D:\work\YOBT\ClockifyRedmineTimeEntrySync\ActivitysSync\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
