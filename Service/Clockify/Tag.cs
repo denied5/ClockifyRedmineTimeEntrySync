@@ -7,5 +7,6 @@ namespace Services.Clockify
 {
     public class Tag: SpareActivity
     {
+        public string id { get; set; }
     }
 }

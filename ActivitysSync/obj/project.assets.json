@@ -11,11 +11,24 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
+      "redmine-netcore10-api/2.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/RedmineApi.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RedmineApi.Core.dll": {}
+        }
+      },
       "Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Newtonsoft.Json": "12.0.3"
+          "Newtonsoft.Json": "12.0.3",
+          "redmine-netcore10-api": "2.0.1"
         },
         "compile": {
           "bin/placeholder/Services.dll": {}
@@ -56,6 +69,18 @@
         "newtonsoft.json.12.0.3.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "packageIcon.png"
+      ]
+    },
+    "redmine-netcore10-api/2.0.1": {
+      "sha512": "DyP03q9TLOe2+hbRi+RPYwzL9S7HNTK4b2tx/pDwCljKgNWzjmaKOsNiS7FpQAxfn94hAqDyFvnw5GpZUV3afQ==",
+      "type": "package",
+      "path": "redmine-netcore10-api/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/RedmineApi.Core.dll",
+        "redmine-netcore10-api.2.0.1.nupkg.sha512",
+        "redmine-netcore10-api.nuspec"
       ]
     },
     "Services/1.0.0": {

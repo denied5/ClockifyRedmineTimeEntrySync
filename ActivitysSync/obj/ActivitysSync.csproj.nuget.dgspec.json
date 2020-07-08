@@ -103,6 +103,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
+            },
+            "redmine-netcore10-api": {
+              "target": "Package",
+              "version": "[2.0.1, )"
             }
           },
           "imports": [
